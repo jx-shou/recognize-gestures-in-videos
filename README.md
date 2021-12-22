@@ -7,8 +7,10 @@
 ## Implicity incorporating multiple modalities by partially sharing network
 * We propose a method that using a network with Two-branch Structure.
   * *A shared network* for implicitly incorporating multiple modalities.
+  * *A generation branch* for estimating motion regions.
+  * *A classification branch* for classifying gestures.
 
-
+* We expect the shared network to extract features not only from the shape and motion cues but also from the *correspondence between the shape and motion cues*.
 
 
 
