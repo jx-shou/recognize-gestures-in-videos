@@ -9,7 +9,7 @@
   * *A shared network* for implicitly incorporating multiple modalities.
   * *A generation branch* for estimating motion regions.
   * *A classification branch* for classifying gestures.
-<div align=center><img src="./png/overview.png" width="900"/></div>
+<div align=center><img src="./png/overview.png" width="800"/></div>
 
 * We expect the shared network to extract features not only from the shape and motion cues but also from the *correspondence between the shape and motion cues*.
 
