@@ -13,8 +13,9 @@
 
 * We expect the shared network to extract features not only from the shape and motion cues but also from the *correspondence between the shape and motion cues*.
 
-
-
+## Binarized motion cue
+* It is given as extra pixel-level supervision for learning motion in the generation branch where the network predicts a possibility of moving for each pixel.
+* We expect networks can be sensitive with small motions by using it.
 
 
 
