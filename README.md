@@ -4,6 +4,9 @@
 * However, 3DCNN is difficult to learn long-term motion information since motion information is reduced through subsampling layers.
 * Networks of learning additional motion information are required.
 
+## Implicity incorporating multiple modalities by partially sharing network
+* We propose a method that using a network with Two-branch Structure.
+  * *A shared network* for implicitly incorporating multiple modalities.
 
 
 
