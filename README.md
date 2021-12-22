@@ -40,5 +40,5 @@ FG 2020 [paper](https://www.computer.org/csdl/proceedings-article/fg/2020/307900
 ```
 
 ## Reference
-- piergiaj/pytorch-i3d [repo](https://github.com/piergiaj/pytorch-i3d/blob/master/pytorch_i3d.py)
+- piergiaj/pytorch-i3d [[repo](https://github.com/piergiaj/pytorch-i3d/blob/master/pytorch_i3d.py)]
 
