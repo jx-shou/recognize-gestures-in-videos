@@ -15,6 +15,6 @@
 ## Binarized motion cue
 * It is given as extra pixel-level supervision for learning motion in the generation branch where the network predicts a possibility of moving for each pixel.
 * We expect networks can be sensitive with small motions by using it.
-<div align=center><img src="./png/cues.png" width="400"/></div>
+<div align=center><img src="./png/cues.png" width="600"/></div>
 
 
