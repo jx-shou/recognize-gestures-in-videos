@@ -17,4 +17,7 @@
 * We expect networks can be sensitive with small motions by using it.
 <div align=center><img src="./png/cues.png" width="600"/></div>
 
-
+## Experimental results
+* The proposed networks with implicitly fused binarized motion cues obtained the best performance, which showed they can extract more discriminable features for recognition.
+* However, the improvement of accuracies by using pre-trained parameters on the classification branch exceeds that by adding a generation branch without using pre-trained parameters.
+<div align=center><img src="./png/result_table1.png" width="600"/></div>
