@@ -9,13 +9,12 @@
   * *A shared network* for implicitly incorporating multiple modalities.
   * *A generation branch* for estimating motion regions.
   * *A classification branch* for classifying gestures.
-<div align=center><img src="./png/overview.png" width="800"/></div>
-
 * We expect the shared network to extract features not only from the shape and motion cues but also from the *correspondence between the shape and motion cues*.
+<div align=center><img src="./png/overview.png" width="800"/></div>
 
 ## Binarized motion cue
 * It is given as extra pixel-level supervision for learning motion in the generation branch where the network predicts a possibility of moving for each pixel.
 * We expect networks can be sensitive with small motions by using it.
-
+<div align=center><img src="./png/cues.png" width="400"/></div>
 
 
